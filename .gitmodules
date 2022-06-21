@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ampir"]
+	path = ampir
+	url = https://github.com/legana/ampir
+	shallow = true
+	registered = true
